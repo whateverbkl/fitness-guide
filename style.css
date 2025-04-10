@@ -1,0 +1,40 @@
+body{
+    background: lightblue;
+    font-family: verdana;
+    padding: 20px;
+  }
+  
+  h1 {
+    text-align:center;
+    color: darkcyan;
+    font-size:32px;
+  }
+  
+  .mainbox {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .part1, .part2 {
+    width: 45%;
+    background: white;
+    padding: 15px;
+    margin: 10px;
+    border-radius: 8px;
+  }
+  
+  h2 {
+    color: #004d40;
+    font-size: 24px;
+  }
+  
+  ul {
+  font-size: 18px;
+  }
+  
+  img {
+  width: 100%;
+  margin-top:15px;
+  border-radius:10px;
+  max-width:500px;
+  }
